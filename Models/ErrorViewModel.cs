@@ -1,6 +1,6 @@
 using System;
 
-namespace testProject.Models
+namespace WebApp_OpenIDConnect_DotNet.Models
 {
     public class ErrorViewModel
     {
